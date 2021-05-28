@@ -3,6 +3,14 @@
 
 Sou de São Mateus - ES, formado em Análise e Desenvolvimento de Sistemas e especialista em Gestão de Projetos. Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
+<p><strong>Mais sobre mim:</strong></p>
+ 
+- 👨‍💻 Estudando JavaScript, React e NodeJS.
+- :man_office_worker: Trabalhando como professor universitário no Centro Universitário Vale do Cricaré.
+- :video_game: Adoro jogar, acompanhar streams e assistir filmes.
+- :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor.
+- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro conversar sobre tecnologia.
+- :mailbox: Por favor, envie um email para matheuscarretta@gmail.com para me encontrar.
 
 <!--
 **matheus-carretta/matheus-carretta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
