@@ -5,7 +5,7 @@ Sou de São Mateus - ES, formado em Análise e Desenvolvimento de Sistemas e esp
 
 <p><strong>Mais sobre mim:</strong></p>
  
-- 👨‍💻 Atualmmente estudando JavaScript, React e NodeJS.
+- 👨‍💻 Atualmmente estudando JavaScript, TypeScript, Java, React e NodeJS.
 - :man_office_worker: Trabalhando como professor universitário no Centro Universitário Vale do Cricaré.
 - :video_game: Adoro jogar, acompanhar streams e assistir filmes.
 - :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor.
