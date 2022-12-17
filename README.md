@@ -1,15 +1,13 @@
 ## <p align="center"> Oi, eu sou o Matheus! <img src="https://pm1.narvii.com/6283/ad9ff5af2e8bdfa88a92458ace75e2cf6adca8d8_hq.jpg" alt="Goku cumprimentando" align="center" width="300px">
  </p>
 
-Sou de São Mateus - ES, formado em Análise e Desenvolvimento de Sistemas e especialista em Gestão de Projetos. Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
+Desde pequeno sempre fui apaixonado por jogos. Adorava resolver puzzles e vencer desafios nas telinhas. Por isso, descobrir que amava lógica desde pequeno e decidi seguir na área da computação. Me formei como Analista de Sistemas e fiz uma pós em Gerenciamento de Projetos. Atuo como professor universitário, experiência ajudou a desenvolver minha comunicação, liderança e visão de código. Apesar dessa vocação, meu sonho de trabalhar como desenvolvedor continuava, então decidi entrar na [Trybe](https://www.betrybe.com/), uma escola de desenvolvimento web Fullstack, para me atualizar e melhorar ainda mais minhas skills, o que me fez aprender sobre trabalho em equipe, colaboração e criatividade.
 
 <p><strong>Mais sobre mim:</strong></p>
  
-- 👨‍💻 Atualmmente estudando JavaScript, TypeScript, Java, React e NodeJS.
-- :man_office_worker: Trabalhando como professor universitário no Centro Universitário Vale do Cricaré.
+- 👨‍💻 Focando meus estudos em Java atualmente.
 - :video_game: Adoro jogar, acompanhar streams e assistir filmes.
-- :briefcase: Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor.
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro conversar sobre tecnologia.
+- :briefcase: Já atuei como suporte técnico.
 - :mailbox: Entre em contato pelo email matheuscarretta@gmail.com.
 
 <h3 align="left">Languages and Tools:</h3>
