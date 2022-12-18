@@ -1,7 +1,7 @@
 ## <p align="center"> Oi, eu sou o Matheus! <img src="https://pm1.narvii.com/6283/ad9ff5af2e8bdfa88a92458ace75e2cf6adca8d8_hq.jpg" alt="Goku cumprimentando" align="center" width="300px">
  </p>
 
-Desde pequeno sempre fui apaixonado por jogos. Adorava resolver puzzles e vencer desafios nas telinhas. Por isso, descobri que amava lógica desde pequeno e decidi seguir na área da computação. Me formei como Analista de Sistemas e fiz uma pós em Gerenciamento de Projetos. Atuo como professor universitário, experiência ajudou a desenvolver minha comunicação, liderança e visão de código. Apesar dessa vocação, meu sonho de trabalhar como desenvolvedor continuava, então decidi entrar na [Trybe](https://www.betrybe.com/), uma escola de desenvolvimento web Fullstack, para me atualizar e melhorar ainda mais minhas skills, o que me fez aprender sobre trabalho em equipe, colaboração e criatividade.
+Desde pequeno sempre fui apaixonado por jogos. Adorava resolver puzzles e vencer desafios nas telinhas. Por isso, descobri que amava lógica desde pequeno e decidi seguir na área da computação. Me formei como Analista de Sistemas e fiz uma pós em Gerenciamento de Projetos. Atuo como professor universitário, experiência ajudou a desenvolver minha comunicação, liderança e visão de código. Apesar dessa vocação, meu sonho de trabalhar como desenvolvedor continuava, então decidi entrar na [Trybe](https://www.betrybe.com/), uma escola de desenvolvimento web Full-stack, para me atualizar e melhorar ainda mais minhas skills, o que me fez aprender sobre trabalho em equipe, colaboração e criatividade.
 
 <p><strong>Curiosidades e infos:</strong></p>
  
