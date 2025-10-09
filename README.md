@@ -5,7 +5,7 @@ Desde pequeno sempre fui apaixonado por jogos, adorava resolver puzzles e vencer
 
 <p><strong>Curiosidades e infos:</strong></p>
  
-- 👨‍💻 Focando meus estudos em Java atualmente.
+- 👨‍💻 Focando meus estudos em Microserviços atualmente.
 - :video_game: Adoro jogar, acompanhar streams e assistir filmes.
 - :briefcase: Já atuei como suporte técnico e professor universitário.
 - :mailbox: Entre em contato pelo email matheuscarretta@gmail.com.
@@ -54,6 +54,7 @@ Desde pequeno sempre fui apaixonado por jogos, adorava resolver puzzles e vencer
 <img alt="GitHub"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-0052CC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Lint"src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div><br/>
 </div>
 
