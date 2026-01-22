@@ -1,7 +1,7 @@
 ## <p align="center"> Oi, eu sou o Matheus! <img src="https://pm1.narvii.com/6283/ad9ff5af2e8bdfa88a92458ace75e2cf6adca8d8_hq.jpg" alt="Goku cumprimentando" align="center" width="300px">
  </p>
 
-Desde pequeno sempre fui apaixonado por jogos, adorava resolver puzzles e vencer desafios nas telinhas. Apesar de gostar de matemática, com o meu primeiro contato com a prorgamação eu descobri que amo lógica, resolver problemas e superar desafios. Por isso decidi seguir na área da tecnologia, onde, me formei como Analista de Sistemas e fiz uma pós em Gerenciamento de Projetos. Atuo como professor universitário, uma experiência que ajudou a desenvolver minha comunicação, liderança e visão de código. Atualmente trabalho na Trampay como desenvolvedor Web Fullstack.
+Desde pequeno sempre fui apaixonado por jogos, adorava resolver puzzles e vencer desafios nas telinhas. Apesar de gostar de matemática, com o meu primeiro contato com a prorgamação eu descobri que amo lógica, resolver problemas e superar desafios. Por isso decidi seguir na área da tecnologia, onde, me formei como Analista de Sistemas e fiz uma pós em Gerenciamento de Projetos. Atuo como professor universitário, uma experiência que ajudou a desenvolver minha comunicação, liderança e visão de código. Atualmente trabalho na Vitat, uma empresa RD saúde como engenheiro de software focado em aplicações mobile (React Native) e frontend (Next).
 
 <p><strong>Curiosidades e infos:</strong></p>
  
